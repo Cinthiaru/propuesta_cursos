@@ -659,7 +659,7 @@ hr {
   color: #fff;
   overflow: hidden;
   position: relative;
-  background: url(../img/hero-bg.png);
+  background: url(../img/Fondo.svg);
 }
 
 #hero-area .contents {
@@ -1916,4 +1916,9 @@ textarea {
 
 .copyright p a:hover {
   color: #3d60f4;
+}
+
+.img-sm{
+  max-width: 60%;
+    height: auto;
 }
